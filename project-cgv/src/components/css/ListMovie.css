@@ -1,0 +1,79 @@
+.list_movie{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.list_movie-item{
+    width: 25%;
+    padding: 0px 20px;
+    margin-bottom: 30px;
+    cursor: pointer; 
+}
+.list_movie-item a{
+    text-decoration: none;
+}
+
+
+
+.list_movie-item img{
+    width: 100%;
+    height: 300px;
+}
+.movie-item_article h6{
+    font-weight: 700;
+    display: block;
+    display: -webkit-box;
+    height: 16px*1.3*3;
+    line-height: 1.3;
+    -webkit-line-clamp: 1;  /* số dòng hiển thị */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top:15px;
+    color: #333;
+}
+.movie-item_article .movie-item_genre{
+    display: block;
+    display: -webkit-box;
+    height: 16px*1.3*3;
+    line-height: 1.3;
+    -webkit-line-clamp: 1;  /* số dòng hiển thị */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+    
+}
+.movie-item_article p{
+    margin-bottom: 0rem;
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+}
+.movie-item_article p span{
+    font-size: 14px;
+    font-weight: 100;
+}
+
+
+
+.btn_movie-item{
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    border: none;
+    padding: 0px 2px;
+    margin: 15px 0px;
+}
+.btn_movie-item p{
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    border: 1px solid white;
+    padding: 3px 5px;
+    margin: 2px 0;
+}
+.fas{
+    background: red;
+}

@@ -1,0 +1,90 @@
+.movie_detail {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.movie_detail_img {
+  margin-right: 30px;
+}
+
+.movie_detail_img img {
+  height: 300px;
+}
+
+.movie_detail_infor {
+  margin-left: 30px;
+}
+
+.movie_detail_infor h4 {
+  margin-bottom: 30px;
+}
+
+.movie_detail_infor p {
+  margin-top: 0;
+  margin-bottom: 6px;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.movie_detail_infor p span {
+  font-weight: 200;
+}
+
+.btn_buy_movie_detail {
+  background-color: red;
+  color: white;
+  border-radius: 4px;
+  border: none;
+  padding: 0px 2px;
+}
+
+.btn_buy_movie_detail p {
+  background-color: red;
+  color: white;
+  border-radius: 4px;
+  border: 1px solid white;
+  padding: 5px 8px;
+  margin: 2px 0;
+}
+
+.fas {
+  background: red;
+}
+
+/* chi tiết và trailer  */
+
+.rectangle_detail {
+  width: 265px;
+  height: 45px;
+  background: red;
+  border-left: 30px solid #fdfcf0;
+  border-top: 24px solid transparent;
+  border-right: 30px solid #fdfcf0;
+  border-bottom: 24px solid transparent;
+  margin: 20px auto;
+  position: relative;
+}
+
+.event_endow_detail {
+  position: absolute;
+  top: -12px;
+  right: 38px;
+  background-color: red;
+  color: #fdfcf0;
+  font-size: 13px;
+}
+
+.event_endow_detail span {
+  color: #fdfcf0;
+  background-color: red;
+  margin: 0px 7px;
+  cursor: pointer;
+}
+
+.detail_content {
+  margin-bottom: 20px;
+}
+
+.detail_content iframe {
+  width: 70%;
+}

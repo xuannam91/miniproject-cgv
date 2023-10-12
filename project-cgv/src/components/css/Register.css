@@ -1,0 +1,128 @@
+.register{
+    display: flex;
+    margin: 50px 0;
+}
+.register_left{
+    
+    width: 50%;
+    padding: 30px;
+}
+.register_right{
+    
+    width: 50%;
+}
+
+.registe_title{
+    display: flex;
+   justify-content: space-around;
+   background-color: red;
+   margin-bottom: 30px;
+}
+.registe_title h5{
+    color: white;
+   background-color: red;
+   padding-top: 5px;
+   
+
+}
+.registe_title a{
+    color: white;
+   background-color: red;
+
+   position: relative;
+   display: inline-block;
+   cursor: pointer; /* Đổi con trỏ chuột khi hover */
+   text-decoration: none;
+
+
+}
+
+/* form register*/
+.registe_form{
+    width: 100%;
+    line-height: 30px;
+}
+.registe_label{
+    width: 24%;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+.registe_input{
+    width: 75%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    border: none;
+    border: 0.1px solid black;
+    font-size: 14px;
+}
+.register_btn_form{
+    text-align: center;
+}
+.register_btn{
+    background-color: green;
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 4px 8px;
+    border: none;
+}
+
+.registe_label_gender label{
+    margin-right: 20px;
+   
+}
+.registe_label_gender input{
+    margin-right: 6px;
+}
+
+.register_error{
+    color:red;
+    font-style: italic;
+    font-size: 12px;
+    margin-top: -23px;
+    margin-bottom: -2rem;
+    text-align: center;
+}
+
+.input_register_password{
+    width: 75%;
+    position: relative;
+    border-radius: 5px;
+    background-color: aliceblue;
+    border: none;
+    border: 0.1px solid black;
+}
+
+.fa-solid{
+    position:absolute;
+    top: 0px;
+    left: 297px;
+   
+}
+.register_password{
+    position: relative;
+    margin-bottom: 20px;
+}
+.register_error_password{
+    color:red;
+    font-style: italic;
+    font-size: 12px;
+    text-align: center;
+    margin-top: -23px;
+    margin-bottom: -1rem;
+}
+
+/* carousel */
+.register_carousel{
+    padding: 30px;
+
+}
+.register_carousel_img{
+    width: 100%;
+    height: 380px;
+
+}
+
+
+
+

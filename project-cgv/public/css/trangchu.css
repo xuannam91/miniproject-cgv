@@ -1,0 +1,36 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #fdfcf0;
+} */
+/* .image-wrapper_left{ */
+/* position: fixed; */
+/* top: 10px; */
+/* width: 10%;  */
+/* Chiều rộng tùy chọn, thay đổi theo ý muốn */
+/* height: 100%;  */
+/* Chiều cao bằng chiều cao của trang web */
+/* z-index: 100; */
+/* left: 0; */
+/* } */
+/* .image-wrapper_left img{
+    width: 100%;
+} */
+
+/* .image-wrapper_right{
+    position: fixed;
+    top: 10px;
+    width: 10%; 
+    height: 100%; 
+    z-index: 100;
+    right: 0;
+}
+.image-wrapper_right img{
+    width: 100%;
+} */
+
+/* .background_color{
+    background: #fdf7dc;;
+} */

@@ -1,0 +1,309 @@
+
+/* ảnh quảng cáo 2 bên */
+.image-wrapper_left {
+  position: fixed;
+  top: 10px;
+  width: 10%;
+  /* Chiều rộng tùy chọn, thay đổi theo ý muốn */
+  height: 100%;
+  /* Chiều cao bằng chiều cao của trang web */
+  z-index: 100;
+  left: 0;
+}
+
+.image-wrapper_left img {
+  width: 100%;
+}
+
+
+.image-wrapper_right {
+  position: fixed;
+  top: 10px;
+  width: 10%;
+  /* Chiều rộng tùy chọn, thay đổi theo ý muốn */
+  height: 100%;
+  /* Chiều cao bằng chiều cao của trang web */
+  z-index: 100;
+  right: 0;
+}
+
+.image-wrapper_right img {
+  width: 100%;
+}
+
+
+
+
+
+.body_title img {
+  width: 100%;
+}
+
+
+/* carousel */
+.section_carousel {
+  background-image: url("https://www.cgv.vn/skin/frontend/cgv/default/images/bg-cgv/bg-bottom-footer.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+
+}
+
+
+
+.img_carousel {
+  width: 100%;
+}
+
+.carousel-control-prev {
+  display: none !important;
+}
+
+.carousel-control-next {
+  display: none !important;
+}
+
+.carousel-indicators {
+  display: none !important;
+}
+
+.line_movie {
+  position: relative;
+  margin: -15px 0;
+
+}
+
+.movie_title {
+  margin: 70px 0;
+
+}
+
+.movie_img {
+  position: absolute;
+  top: -13px;
+  right: 290px;
+}
+
+/* owlcarousel slider */
+.owl-theme_movie .img {
+  width: 100%;
+  height: 350px;
+
+}
+
+.owl-theme_movie {
+  position: relative;
+
+
+}
+
+.owl-theme_movie_action {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: none;
+
+}
+
+.owl-theme_movie:hover .owl-theme_movie_action {
+  display: block;
+}
+
+.owl-theme_movie:hover .movie_play {
+  display: block;
+}
+
+
+.owl-theme_btn {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+.owl-theme_btn a {
+  background-color: rgba(0, 0, 0, 0.5);
+
+}
+
+.owl-theme_movie_action h5 {
+  color: #fdfcf0;
+  background-color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  padding: 10px 0;
+  font-size: 16px;
+  margin: 0;
+
+}
+
+.btn_details {
+  color: #fdfcf0;
+  background-color: red;
+  padding: 5px 5px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.btn_buy {
+  color: #fdfcf0;
+  background-color: red;
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 10px;
+  font-size: 14px;
+
+}
+
+
+.movie_play {
+  position: absolute;
+  top: 30%;
+  right: 35%;
+  background-color: red;
+  border-radius: 5px;
+  display: none;
+  font-size: 14px;
+
+}
+
+.movie_play .btn_movie_play {
+  border-radius: 5px;
+  padding: 10px 18px;
+  background-color: red;
+  border-radius: 5px;
+  border: none;
+  color: #fdfcf0;
+}
+
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.9);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+
+}
+
+.modal-content {
+  background-color: white;
+  position: relative;
+  padding: 20px;
+  border-radius: 5px;
+  z-index: 1001;
+}
+
+
+
+.modal_body {
+  width: 50%;
+  height: 410px;
+  margin: auto;
+  position: relative;
+  border: 5px solid white;
+}
+
+.btn_modal {
+  position: absolute;
+  top: 0;
+  right: 0;
+
+}
+
+/* event */
+.event {
+  position: relative;
+}
+
+.event_title {
+  margin: 20px 0;
+}
+
+.event_img {
+  position: absolute;
+  top: -13px;
+  right: 428px;
+}
+
+
+
+
+
+.rectangle {
+  width: 400px;
+  height: 45px;
+  background: red;
+  border-left: 30px solid #fdfcf0;
+  border-top: 24px solid transparent;
+  border-right: 30px solid #fdfcf0;
+  border-bottom: 24px solid transparent;
+  margin: 20px auto;
+  position: relative;
+}
+
+.event_endow {
+  position: absolute;
+  top: -12px;
+  right: 53px;
+  background-color: red;
+  color: #fdfcf0;
+  font-size: 13px;
+}
+
+.event_endow span {
+  color: #fdfcf0;
+  background-color: red;
+}
+
+.event_article {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 2px solid black;
+  padding-bottom: 30px;
+}
+
+.event_img_finish {
+  display: flex;
+  width: 100%;
+  margin: 30px 0;
+
+}
+
+.event_img_finish_header {
+  width: 25%;
+}
+
+.event_img_finish_header img {
+  width: 100%;
+  height: 300px;
+}
+
+.event_img_finish_center {
+  width: 50%;
+}
+
+.event_img_finish_center img {
+  width: 100%;
+  height: 300px;
+
+}
+
+.event_img_finish-footer {
+  width: 25%;
+}
+
+.event_img_finish-footer img {
+  width: 100%;
+  height: 300px;
+
+}
+

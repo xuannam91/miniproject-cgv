@@ -1,0 +1,263 @@
+.container,
+.container-fluid,
+.container-lg,
+.container-md,
+.container-sm,
+.container-xl,
+.container-xxl {
+
+    width: 1000px !important;
+
+
+}
+
+.header_item {
+    margin: -10px 0;
+}
+.header_item_fontawesome{
+   padding-top: 3px;
+}
+
+.user_login {
+    color: red;
+    font-size: 13px;
+    margin-right: 15px;
+    cursor: pointer;
+}
+
+.logout_user {
+    border: none;
+}
+
+.header_img img {
+    width: 100%;
+}
+
+.header_item ul {
+    display: flex;
+    justify-content: right;
+    gap: 50px;
+    list-style: none;
+    margin-top: 15px;
+}
+
+.header_item ul li {
+    font-weight: 600;
+    font-size: 11px;
+    text-align: center;
+}
+
+.header_item ul li a {
+    
+    text-decoration: none;
+    color: rgb(101, 99, 99);
+}
+
+.fa-tags {
+    font-size: 17px;
+    margin-right: 5px;
+    position: none;
+}
+
+.fa-ticket {
+    font-size: 17px;
+    margin-right: 5px;
+
+}
+
+.fa-user {
+    font-size: 17px;
+    margin-right: 5px;
+    font-weight: bold;
+
+}
+
+
+.header_nav {
+    position: relative;
+    width: 100%;
+    height: 150px;
+    background-image: url("https://www.cgv.vn/skin/frontend/cgv/default/images/bg-cgv/bg-top.png");
+    background-repeat: repeat-x;
+
+}
+
+
+.header_nav ul {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 44%;
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    list-style: none;
+    transform: translate(-50%, -47%);
+    background: none;
+
+
+}
+
+.header_nav ul li {
+
+    background: none;
+
+}
+
+.header_nav .header_list_item {
+    font-weight: bold;
+    font-size: 14px;
+}
+
+
+.background_color1 {
+
+    position: absolute;
+    top: 37%;
+    left: 17%;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    list-style: none;
+    transform: translate(-50%, -47%);
+    background: none;
+
+}
+
+.background_color2 {
+
+    position: absolute;
+    top: 39%;
+    right: 14%;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    list-style: none;
+    transform: translate(-50%, -47%);
+    background: none;
+
+}
+
+.background_color3 {
+
+    position: absolute;
+    top: 32%;
+    right: 8%;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    list-style: none;
+    transform: translate(-50%, -47%);
+    background: none;
+
+}
+
+.background_color4 {
+
+    position: absolute;
+    top: 45%;
+    right: 29%;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    list-style: none;
+    transform: translate(-50%, -47%);
+    background: none;
+
+}
+
+/* modal thay đổi thông User */
+
+.overlay_user{
+    position: fixed;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+     background-color: rgba(0, 0, 0, 0.9);
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     z-index: 1000;
+     
+   }
+   
+   .modal-content_user {
+     background-color: white;
+     position: relative;
+     border-radius: 5px;
+     z-index: 1001;
+     width: 70%;
+     top: -70px;
+   }
+   
+   
+   
+   .modal_body_user{
+     width: 100%;
+     height: 410px;
+     margin: auto;
+     position: relative;
+     border: 0px solid white;
+   }
+
+   .btn_modal_user{
+     position: absolute;
+     top:0;
+     right: 0;
+   
+   }
+
+   /* form modal */
+
+   .change_user{
+    text-align: center;
+    padding: 20px 0;
+   }
+   .change_user h4{
+    background-color: brown;
+    width: 60%;
+    margin: 0 auto;
+    color: white;
+    padding: 14px 0;
+   }
+
+   .form_change_user{
+    border: 1px solid pink;
+    width: 60%;
+    margin: 40px auto;
+    border: none;
+   }
+   .change_user_label{
+    width: 30%;
+    margin-bottom: 15px;
+    text-align: left;
+   }
+   .change_user_input{
+    width: 70%;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border: 0.1px solid black;
+    background-color: aliceblue;;
+   }
+   .btn_change_user{
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 6px 10px;
+   }
+   .change_gender input{
+    margin-right: 7px;
+   }
+   .change_gender label{
+    margin-right: 20px;
+   }
+   .change_user_error{
+    color:red;
+    font-style: italic;
+    font-size: 11px;
+    margin-top: -10px;
+    margin-bottom: -23px;
+    text-align: center;
+   }

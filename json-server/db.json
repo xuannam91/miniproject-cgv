@@ -1,0 +1,510 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "idTheater": 1,
+      "title": "OPPENHEIMER",
+      "image": "https://ocwckgy6c1obj.vcdn.cloud/media/catalog/product/cache/1/thumbnail/240x388/c88460ec71d04fa96e628a21494d2fd3/7/0/700x1000-oppen.jpg",
+      "trailer": "https://www.youtube.com/embed/0UXPIa5cNws?si=NWUO9q-HZ_Aauy8q",
+      "description": "Với nhân vật trung tâm là J. Robert Oppenheimer, nhà vật lý lý thuyết người đứng đầu phòng thí nghiệm Los Alamos, thời kỳ Thế chiến II. Ông đóng vai trò quan trọng trong Dự án Manhattan, tiên phong trong nhiệm vụ phát triển vũ khí hạt nhân, và được coi là một trong những “cha đẻ của bom nguyên tử”.",
+      "duration": "180",
+      "releaseDate": "2023-08-25",
+      "genre": "Hành động",
+      "country": "USA",
+      "director": "Christopher Nolan",
+      "actors": "Cillian Murphy",
+      "showtimes": [
+        {
+          "date": "2023-08-25",
+          "timeSlots": [
+            {
+              "time": "10:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "14:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "19:00",
+              "status": "available",
+              "bookedSeats": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "idTheater": 1,
+      "title": "KẺ ẨN DANH",
+      "image": "https://www.cgv.vn/media/catalog/product/cache/1/thumbnail/240x388/c88460ec71d04fa96e628a21494d2fd3/1/s/1st_look_poster_-_kt_chu_n.jpg",
+      "trailer": "https://www.youtube.com/embed/Khu9q454O4k?si=q-HjZdHlnPPSyAhL",
+      "description": "Chuyện kể về Lâm - người đàn ông chân chất có quá khứ bí mật, luôn đặt vợ con và hạnh phúc gia đình lên hàng đầu. Thế nhưng, cuộc sống yên bình của gia đình anh bỗng chốc bị đảo lộn. Lúc này, Lâm phải bảo vệ những điều mà anh yêu thương bằng mọi giá.  ",
+      "duration": "93",
+      "releaseDate": "2023-01-01",
+      "genre": "Hài hước",
+      "country": "Việt Nam",
+      "director": "Trần Trọng Dần",
+      "actors": "Mạc Văn Khoa",
+      "showtimes": [
+        {
+          "date": "2023-08-25",
+          "timeSlots": [
+            {
+              "time": "10:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "14:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "19:00",
+              "status": "available",
+              "bookedSeats": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "idTheater": 1,
+      "title": "CẬU BÉ BÚT CHÌ: ĐẠI CHIẾN SIÊU NĂNG LỰC",
+      "image": "https://www.cgv.vn/media/catalog/product/cache/1/thumbnail/240x388/c88460ec71d04fa96e628a21494d2fd3/r/s/rsz_1shin_poster_ch_nh_th_c-01.jpg",
+      "trailer": "https://www.youtube.com/embed/Qy9I3bdWs8w?si=aoDVUd2gvFp8WLYh",
+      "description": "3DCG! Shin - Cậu Bé Bút Chì: Đại Chiến Siêu Năng Lực ~ Sushi Bay ~. Xoay quanh câu chuyện về hai nguồn sáng đặc biệt từ vũ trụ mang theo siêu năng lực đặc biệt tới Trái Đất. Một nguồn sáng tích cực “nhập” vào nhóc Shin, khiến cặp mông núng nính của cậu trở nên nóng bỏng và có khả năng điều khiển những đồ vật xung quanh theo ý muốn. Một thanh niên trẻ khác tên Mitsuru Hiriya cũng nhận được siêu năng lực này. Đồng thời, một nhà khoa học xấu xa khác nhăm nhe ý định lợi dụng siêu năng lực của Hiriya để trở thành bá chủ.",
+      "duration": "94",
+      "releaseDate": "2023-09-20",
+      "genre": "Hoạt hình",
+      "country": "Nhật Bản",
+      "director": "Hitoshi One",
+      "actors": "Yumiko Kobayashi",
+      "showtimes": [
+        {
+          "date": "2023-08-25",
+          "timeSlots": [
+            {
+              "time": "10:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "14:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "19:00",
+              "status": "available",
+              "bookedSeats": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "idTheater": 1,
+      "title": "BLUE BEETLE",
+      "image": "https://ocwckgy6c1obj.vcdn.cloud/media/catalog/product/cache/1/thumbnail/240x388/c88460ec71d04fa96e628a21494d2fd3/p/o/poster_blue_beetle_4_1_.jpg",
+      "trailer": "https://www.youtube.com/embed/Eguyu5glQmU?si=Txf_tvLQ3YQFEmpr",
+      "description": "Cậu sinh viên mới tốt nghiệp Jaime Reyes trở về nhà với tràn trề niềm tin và hy vọng về tương lai, để rồi nhận ra quê nhà của anh đã thay đổi rất nhiều so với trước đây. Khi tìm kiếm mục đích sống trên thế giới này, Jamie đối mặt với bước ngoặt cuộc đời khi anh nhận ra mình sở hữu một di sản cổ đại của công nghệ sinh học ngoài hành tinh: Scarab (Bọ Hung). Khi Scarab chọn Jamie trở thành vật chủ, anh được ban tặng một bộ áo giáp với siêu sức mạnh đáng kinh ngạc không ai có thể lường trước. Số phận của Jamie hoàn toàn thay đổi khi giờ đây, anh đã là siêu anh hùng BLUE BEETLE.",
+      "duration": "128",
+      "releaseDate": "2023-09-18",
+      "genre": "Khoa học viễn tưởng",
+      "country": "USA",
+      "director": "Angel Manuel Soto",
+      "actors": "Bruna Marquezine",
+      "showtimes": [
+        {
+          "date": "2023-08-25",
+          "timeSlots": [
+            {
+              "time": "10:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "14:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "19:00",
+              "status": "available",
+              "bookedSeats": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "idTheater": 1,
+      "title": "GRAN TURISMO: TAY ĐUA CỰ PHÁCH",
+      "image": "https://www.cgv.vn/media/catalog/product/cache/1/thumbnail/240x388/c88460ec71d04fa96e628a21494d2fd3/r/s/rsz_gt-content-b_t__u.jpg",
+      "trailer": "https://www.youtube.com/embed/XcbP5CZ5DqE?si=MQbSmJSbMhdvFy7p",
+      "description": "Dựa trên câu chuyện điên rồ có thật khi một game thủ đã trở thành tay đua thực thụ. GRAN TURISMO: TAY ĐUA CỰ PHÁCH, duy nhất tại rạp 11.08.2023. #GranTurismoMovie",
+      "duration": "134",
+      "releaseDate": "2023-09-28",
+      "genre": "Hành động",
+      "country": "USA",
+      "director": "Neill Blomkamp",
+      "actors": "David Harbour",
+      "showtimes": [
+        {
+          "date": "2023-08-25",
+          "timeSlots": [
+            {
+              "time": "10:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "14:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "19:00",
+              "status": "available",
+              "bookedSeats": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "idTheater": 1,
+      "title": "HÀM TỬ THẦN",
+      "image": "https://ocwckgy6c1obj.vcdn.cloud/media/catalog/product/cache/1/thumbnail/240x388/c88460ec71d04fa96e628a21494d2fd3/m/a/main_poster_-_1080x1350_1_.jpg",
+      "trailer": "https://www.youtube.com/embed/yIdp_ZC4Szs?si=DPSz9ceXqrcUpzaS",
+      "description": "Trên chuyến hành trình xuyên biển đoàn tụ gia đình, một cơn bão buộc Naomi rời khỏi lộ trình và vướng vào phi vụ nguy hiểm dưới lòng đại dương. Nhiệm vụ khó thành, hàm tử thần chực chờ nuốt chửng, liệu Naomi có thể thoát khỏi biển máu!?",
+      "duration": "84",
+      "releaseDate": "2023-09-25",
+      "genre": "Kinh dị",
+      "country": "Pháp",
+      "director": "Marcus Adams",
+      "actors": "Madalina Ghenea",
+      "showtimes": [
+        {
+          "date": "2023-08-25",
+          "timeSlots": [
+            {
+              "time": "10:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "14:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "19:00",
+              "status": "available",
+              "bookedSeats": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "idTheater": 1,
+      "title": "GỌI HỒN QUỶ DỮ",
+      "image": "https://ocwckgy6c1obj.vcdn.cloud/media/catalog/product/cache/1/thumbnail/240x388/c88460ec71d04fa96e628a21494d2fd3/p/o/poster_payoff_ghqd_1.jpg",
+      "trailer": "https://www.youtube.com/embed/CfWw9ubDgKI?si=1TxywnSO7DWovOus",
+      "description": "Một nhóm bạn phát hiện ra bàn tay ma quái cho phép họ triệu hồi các linh hồn bí ẩn. Họ dần bị cuốn vào trò chơi này mà không biết rằng một trong số họ đã đi quá xa và giải phóng thế lực hắc ám kinh hoàng.",
+      "duration": "93",
+      "releaseDate": "2023-09-11",
+      "genre": "Kinh dị",
+      "country": "USA",
+      "director": "Michael Philippou",
+      "actors": "Sunny Johnson",
+      "showtimes": [
+        {
+          "date": "2023-08-25",
+          "timeSlots": [
+            {
+              "time": "10:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "14:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "19:00",
+              "status": "available",
+              "bookedSeats": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "idTheater": 1,
+      "title": "DRACULA: QUỶ DỮ THỨC TỈNH",
+      "image": "https://ocwckgy6c1obj.vcdn.cloud/media/catalog/product/cache/1/thumbnail/240x388/c88460ec71d04fa96e628a21494d2fd3/w/e/web_-_demeter_-_teaser_poster.jpg",
+      "trailer": "https://www.youtube.com/embed/sa9eXkvIP8M?si=4nuQ8zj4ANoHwaYc",
+      "description": "Một đoàn thủy thủ tham gia vào nhiệm vụ vận chuyển một “đơn hàng” bí ẩn từ Carpathia đến London trên con tàu Demeter huyền thoại. Hải trình tưởng chừng như đơn giản thế nhưng lại ẩn chứa một cơn ác mộng kinh hoàng khi “đơn hàng” họ vận chuyển đang dần thức tỉnh. Nỗi khiếp sợ chính thức mở ra khi một vài thủy thủ bắt đầu phát hiện những dấu hiệu bất thường trên tàu, sự ra đi hàng loạt của động vật, cho đến cái chết bí ẩn của người thủy thủ đã khiến cho chuyến hành trình đến London trở nên ám ảnh hơn bao giờ hết. Giờ đây, tất cả mọi người phải tranh giành sự sống với mọi giác quan để chống lại con quái vật khát máu đã thức tỉnh trên tàu – Dracula. Liệu họ có cập bến thành công? Hay kết cục chỉ còn là sự chết chóc và một con tàu vô chủ?",
+      "duration": "117",
+      "releaseDate": "2023-09-18",
+      "genre": "Kinh dị",
+      "country": "Pháp",
+      "director": "André Øvredal",
+      "actors": "Aisling Franciosi",
+      "showtimes": [
+        {
+          "date": "2023-08-25",
+          "timeSlots": [
+            {
+              "time": "10:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "14:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "19:00",
+              "status": "available",
+              "bookedSeats": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "idTheater": 1,
+      "title": "BÊN TRONG VỎ KÉN VÀNG",
+      "image": "https://ocwckgy6c1obj.vcdn.cloud/media/catalog/product/cache/1/thumbnail/240x388/c88460ec71d04fa96e628a21494d2fd3/b/_/b_n_trong_v_k_n_v_ng_-_d_ki_n_kh_i_chi_u_11.08.2023_-_payoff_poster_kt_fb_1_.jpg",
+      "trailer": "https://www.youtube.com/embed/6ov9DPDqv9E?si=WPt7N09ePFqDNfYA",
+      "description": "Phim kể về Thiện, một người đàn ông phải chở xác chị dâu chết trong một vụ tai nạn xe máy ở Sài Gòn, và đứa con trai 5 tuổi của cô ấy tên Đạo, người sống sót sau vụ tai nạn, về quê. Ở nông thôn Việt Nam, những hình bóng về tuổi trẻ của chính anh, về người anh trai của anh, người đã ra đi để làm lại cuộc đời ở nơi khác, và về chiến tranh cũng đang chờ đợi anh. Trong suốt cuộc hành trình tìm lại anh trai của mình và là cha của Đạo, Thiện đối diện với quá khứ và suy tư về cuộc đời, về đức tin và lẽ sống, đồng thời phim cũng đã đưa lên màn ảnh rất nhiều cảnh sắc, con người Sài Gòn cũng như Việt Nam",
+      "duration": "177",
+      "releaseDate": "2023-09-11",
+      "genre": "Tâm lý",
+      "country": "Việt Nam",
+      "director": "Phạm Thiên Ân",
+      "actors": "Nguyễn Thị Trúc Quỳnh",
+      "showtimes": [
+        {
+          "date": "2023-08-25",
+          "timeSlots": [
+            {
+              "time": "10:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "14:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "19:00",
+              "status": "available",
+              "bookedSeats": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "idTheater": 1,
+      "title": "CONAN: TÀU NGẦM SẮT MÀU ĐEN",
+      "image": "https://ocwckgy6c1obj.vcdn.cloud/media/catalog/product/cache/1/thumbnail/240x388/c88460ec71d04fa96e628a21494d2fd3/c/o/conan_movie_26_-_vietnamese_poster.jpg",
+      "trailer": "https://www.youtube.com/embed/0bJXtdfb7hg?si=35pDX-oEz9MDtKVH",
+      "description": "Thám Tử Lừng Danh Conan: Tàu Ngầm Sắt Màu Đen lấy bối cảnh tại Pacific Buoy - một trụ sở hàng hải của Interpol có nhiệm vụ kết nối các camera an ninh trên toàn thế giới. Nhóm của Conan, theo lời mời của Sonoko, cũng đến đảo Hachijo để xem cá voi. Tại đây, Conan nhận được thông tin về một nhân viên Europol bị ám sát. Cùng với đó, tính mạng Haibara bị đe dọa, phải chăng thân phận của cô đã bị bại lộ trước Gin…",
+      "duration": "110",
+      "releaseDate": "2023-07-21",
+      "genre": "Hoạt hình",
+      "country": "Nhật Bản",
+      "director": "Yuzuru Tachikawa",
+      "actors": "Conan",
+      "showtimes": [
+        {
+          "date": "2023-08-25",
+          "timeSlots": [
+            {
+              "time": "10:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "14:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "19:00",
+              "status": "available",
+              "bookedSeats": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "idTheater": 1,
+      "title": "ĐỊA ĐÀNG SỤP ĐỔ",
+      "image": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/7/0/700x1000-utopia.jpg",
+      "trailer": "https://www.youtube.com/embed/-b1sTXyGyq0?si=S0TlLiUhUmDz9PKE",
+      "description": "Được nhận xét là một “chuẩn mực mới về phản địa đàng trong dòng phim thảm họa Hàn Quốc”, bom tấn ĐỊA ĐÀNG SỤP ĐỔ xoay quanh cơn đại địa chấn san bằng Seoul thành bình địa và hành trình sinh tồn của những người sống sót.",
+      "duration": "129",
+      "releaseDate": "2023-09-01",
+      "genre": "Hồi hộp, hành động",
+      "country": "Hàn Quốc",
+      "director": "Um Tae Hwa",
+      "actors": "Lee Byung Hun",
+      "showtimes": [
+        {
+          "date": "2023-08-25",
+          "timeSlots": [
+            {
+              "time": "10:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "14:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "19:00",
+              "status": "available",
+              "bookedSeats": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "idTheater": 1,
+      "title": "QUỶ ÁM: TÍN ĐỒ",
+      "image": "https://www.cgv.vn/media/catalog/product/cache/1/thumbnail/190x260/2e2b8cd282892c71872b9e67d2cb5039/7/0/700x1000-exorcist.jpg",
+      "trailer": "https://www.youtube.com/embed/Ppnu3iUAm5U?si=882tuOBTPpDTV1vL",
+      "description": "Phần tiếp theo của bộ phim năm 1973 kể về một cô bé 12 tuổi bị một thực thể ma quỷ bí ẩn chiếm hữu, buộc mẹ cô phải tìm đến sự giúp đỡ của hai linh mục để cứu cô.",
+      "duration": "129",
+      "releaseDate": "2023-10-13",
+      "genre": "Hồi hộp, Kinh dị",
+      "country": "USA",
+      "director": "David Gordon Green",
+      "actors": "ennifer Nettles, Ellen Burstyn, Leslie Odom Jr.",
+      "showtimes": [
+        {
+          "date": "2023-08-25",
+          "timeSlots": [
+            {
+              "time": "10:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "14:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "19:00",
+              "status": "available",
+              "bookedSeats": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "idTheater": 1,
+      "title": "XỨ SỞ CÁC NGUYÊN TỐ",
+      "image": "https://www.cgv.vn/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/p/o/poster_official_preiview.jpg",
+      "trailer": "https://www.youtube.com/embed/maq_YK88Xnw?si=72pzsxfMSxstM3xZ",
+      "description": "Xứ Sở Các Nguyên Tố từ Disney và Pixar lấy bối cảnh tại thành phố các nguyên tố, nơi lửa, nước, đất và không khí cùng chung sống với nhau. Câu chuyện xoay quanh nhân vật Ember, một cô nàng cá tính, thông minh, mạnh mẽ và đầy sức hút. Tuy nhiên, mối quan hệ của cô với Wade - một anh chàng hài hước, luôn thuận thế đẩy dòng - khiến Ember cảm thấy ngờ vực với thế giới này. Được đạo diễn bởi Peter Sohn, sản xuất bởi Denise Ream, và lồng tiếng bởi Leah Lewis (Ember) và Mamoudou Athie (Wade), phim dự kiến khởi chiếu tại rạp vào tháng 23.06.2023.",
+      "duration": "109",
+      "releaseDate": "2023-09-23",
+      "genre": "Gia đình, Hài, Hoạt Hình",
+      "country": "USA",
+      "director": "Peter Sohn",
+      "actors": "Leah Lewis, Mamoudou Athie",
+      "showtimes": [
+        {
+          "date": "2023-08-25",
+          "timeSlots": [
+            {
+              "time": "10:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "14:00",
+              "status": "available",
+              "bookedSeats": []
+            },
+            {
+              "time": "19:00",
+              "status": "available",
+              "bookedSeats": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Admin",
+      "phonenumber": "134567",
+      "email": "admin@gmail.com",
+      "password": "Admin1234@",
+      "address": "Hà Nội",
+      "birthplace": "2023-01-01",
+      "gender": "male",
+      "role": "admin",
+      "status": ""
+    },
+    {
+      "username": "Hiếu Đình Thôn",
+      "phonenumber": "0963051928",
+      "email": "abc@gmail.com",
+      "password": "Tam12345@",
+      "address": "Cà mau",
+      "birthplace": "2023-09-20",
+      "gender": "female",
+      "role": "regular",
+      "status": "",
+      "id": 2
+    },
+    {
+      "username": "Bình đá",
+      "phonenumber": "12346567",
+      "email": "123@gmail.com",
+      "password": "Thanh12345@",
+      "address": "bac ninh",
+      "birthplace": "2023-08-19",
+      "gender": "male",
+      "role": "regular",
+      "status": "",
+      "id": 3
+    }
+  ]
+}
